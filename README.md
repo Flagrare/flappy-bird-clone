@@ -12,3 +12,7 @@ It has:
 The main skill developed was the capacity to assemble resources and use Unity UI.
 
 The game is playable and was published in [itch.io](https://flagrare.itch.io/most-generic-flappy-bird-ever)
+
+## Screenshot
+
+![screenshot](./screenshot.png)
